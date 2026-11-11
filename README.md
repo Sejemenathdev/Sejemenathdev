@@ -34,7 +34,6 @@
 
 <div align="center">
 
-  <!-- Monochrome Tech Stack Badges with White Logos -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -57,20 +56,24 @@
 
 | Repository | Architecture & Overview | Core Technologies | Link |
 | :--- | :--- | :--- | :---: |
-| **Movie Gather** | All-in-one media discovery & streaming desktop suite featuring TMDB metadata integration, automated background episode queues, high-speed hybrid downloads, and Gemini AI subtitle translation. | `Tauri` `React` `Python` `Gemini API` `Firebase` | <a href="https://github.com/Sejemenathdev/movie-gather"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
-| **Ultra Velox / LOOM IDM** | High-speed multi-connection download engine with automated 4K stream extraction, torrent bridging, and custom binary pipeline execution. | `Rust` `Electron` `Python` `FFmpeg` `aria2c` | <a href="https://github.com/Sejemenathdev"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| **Movie Gather** | All-in-one media discovery & streaming desktop suite featuring TMDB metadata integration, automated background episode queues, high-speed hybrid downloads, and Gemini AI subtitle translation. | `Electron` `Next.js` `React` `Python` `Gemini API` | <a href="https://github.com/Sejemenathdev/movie-gather"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| **Ultra Velox / LOOM IDM** | High-speed multi-connection download engine with automated 4K stream extraction, torrent bridging, and custom binary pipeline execution. | `Rust` `Tauri` `Python` `FFmpeg` `aria2c` | <a href="https://github.com/Sejemenathdev"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
 
 ---
 
 ### GITHUB TELEMETRY
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sejemenathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejemenathdev&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sejemenathdev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sejemenathdev&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sejemenathdev&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=737373&sideLabels=A3A3A3" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sejemenathdev&bg_color=000000&color=FFFFFF&line=A3A3A3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
