@@ -56,8 +56,7 @@
 
 | Repository | Architecture & Overview | Core Technologies | Link |
 | :--- | :--- | :--- | :---: |
-| **Movie Gather** | All-in-one media discovery & streaming desktop suite featuring TMDB metadata integration, automated background episode queues, high-speed hybrid downloads, and Gemini AI subtitle translation. | `Electron` `Next.js` `React` `Python` `Gemini API` | <a href="https://github.com/Sejemenathdev/movie-gather"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
-| **Ultra Velox / LOOM IDM** | High-speed multi-connection download engine with automated 4K stream extraction, torrent bridging, and custom binary pipeline execution. | `Rust` `Tauri` `Python` `FFmpeg` `aria2c` | <a href="https://github.com/Sejemenathdev"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| **Movie Gather** | All-in-one media discovery & streaming desktop suite featuring TMDB metadata integration, automated background episode queues, high-speed hybrid downloads, and Gemini AI subtitle translation. | `Electron` `Next.js` `React` `Python` `Gemini API` | <a href="https://github.com/Sejemenathdev/movie-gather"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>  |
 
 ---
 
