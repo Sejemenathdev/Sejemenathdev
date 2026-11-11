@@ -64,16 +64,8 @@
 ### GITHUB TELEMETRY
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sejemenathdev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sejemenathdev&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sejemenathdev&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=737373&sideLabels=A3A3A3" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sejemenathdev&bg_color=000000&color=FFFFFF&line=A3A3A3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sejemenathdev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sejemenathdev&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=737373&sideLabels=A3A3A3" alt="GitHub Streak" />
 </div>
 
 ---
